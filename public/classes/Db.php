@@ -47,7 +47,7 @@ class Db
 
     private function __construct()
     {
-        $this->pdo = new PDO('mysql:host=192.168.10.183;dbname=estimator', 'root', 'root',
+        $this->pdo = new PDO('mysql:host=zyava-db.my.phpcloud.com;dbname=zyava', 'zyava', '123123q',
             array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8")
         );
     }
