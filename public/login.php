@@ -40,7 +40,7 @@ include('header.php');
             <span class="ui-dialog-title" id="ui-dialog-title-dialog-confirm">Login to Estimator</span>
         </div>
         <div class="ui-dialog-content ui-widget-content">
-            <form action="/login.php" method="POST">
+            <form action="/public/login.php" method="POST">
                 <div class="field_container">
                     <label for="form-login-email">E-mail:</label>
                     <input id="form-login-email" name="email" type="text" size="20"/>

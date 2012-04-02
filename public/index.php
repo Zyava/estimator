@@ -215,7 +215,7 @@ if ($_SESSION['user_role'] != ROLE_ADMIN) {
 
 ?>
     <div id="sprint-list-container">
-        <form action="/index.php" method="POST" id="sprint-list-form">
+        <form action="/public/index.php" method="POST" id="sprint-list-form">
             <label for="sprint_id">Sprint: </label><select id="sprint-list-select" name="sprint_id">
             <?php
                 if (isset($sprintList['data'])) {
