@@ -1,0 +1,21 @@
+#form-login-container {
+    width: 100%;
+    padding-top: 100px;
+}
+
+#form-login {
+    margin: 0 auto !important;
+    position: inherit;
+}
+
+#form-login lable {
+    display: block;
+}
+
+#form-login-email {
+    width: 100%;
+}
+
+#form-login-password {
+    width: 100%;
+}

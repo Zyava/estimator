@@ -1,0 +1,57 @@
+body {
+
+}
+
+#main-container {
+}
+
+
+.task-container {
+    height: 420px;
+    overflow: auto;
+    position: relative;
+}
+.task {
+    width: 80px;
+    height: 30px;
+}
+
+#users {
+    width: 10%;
+    height: 100px;
+    border: 1px solid #CCCCCC;
+    margin: 3px 3px 3px 8px;
+    padding: 2px;
+    display: inline-block;
+    background: none repeat scroll 0 0 #FFFFFF;
+    vertical-align: top;
+    overflow: auto;
+}
+
+#log {
+    width: 87%;
+    height: 100px;
+    border: 1px solid #CCCCCC;
+    margin: 3px;
+    padding: 2px;
+    display: inline-block;
+    background: none repeat scroll 0 0 #FFFFFF;
+    vertical-align: top;
+    overflow: auto;
+}
+
+#sprint-list-container {
+    float: right;
+}
+#task_calc_table tr.highlight {
+    font-weight: bold;
+}
+#task_calc_table tr.hover {
+    font-weight: bold;
+    background-color: #F6A828;
+}
+
+#task_calc_table td,
+#task_calc_table th {
+    padding: 0 10px;
+}
