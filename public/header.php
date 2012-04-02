@@ -4,23 +4,23 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
     <title>Estimator</title>
     <link type="text/css" rel="stylesheet" href="/public/css/themes/ui-lightness/jquery-ui-1.8.18.custom.css"/>
-    <script type="text/javascript" src="/public/js/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="/public/js/jquery-ui-1.8.18.custom.min.js"></script>
-    <script type="text/javascript" src="/public/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/public/js/fancywebsocket.js"></script>
-    <script type="text/javascript" src="/public/js/common.js"></script>
-    <script type="text/javascript" src="/public/js/task.js"></script>
-    <script type="text/javascript" src="/public/js/card.js"></script>
-    <script type="text/javascript" src="/public/js/estimator.js"></script>
-    <script type="text/javascript" src="/public/js/tab.js"></script>
-    <script type="text/javascript" src="/public/js/sprint.js"></script>
-    <script type="text/javascript" src="/public/js/log.js"></script>
-    <script type="text/javascript" src="/public/js/user.js"></script>
-    <script type="text/javascript" src="/public/js/calc.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.18.custom.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/js/fancywebsocket.js"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+    <script type="text/javascript" src="/js/task.js"></script>
+    <script type="text/javascript" src="/js/card.js"></script>
+    <script type="text/javascript" src="/js/estimator.js"></script>
+    <script type="text/javascript" src="/js/tab.js"></script>
+    <script type="text/javascript" src="/js/sprint.js"></script>
+    <script type="text/javascript" src="/js/log.js"></script>
+    <script type="text/javascript" src="/js/user.js"></script>
+    <script type="text/javascript" src="/js/calc.js"></script>
 
-    <link type="text/css" rel="stylesheet" href="/public/css/main.css"/>
-    <link type="text/css" rel="stylesheet" href="/public/css/styles.css"/>
-    <link type="text/css" rel="stylesheet" href="/public/css/login.css"/>
+    <link type="text/css" rel="stylesheet" href="/css/main.css"/>
+    <link type="text/css" rel="stylesheet" href="/css/styles.css"/>
+    <link type="text/css" rel="stylesheet" href="/css/login.css"/>
 
 </head>
 <body>
